@@ -1,0 +1,7 @@
+<suite name="ebay">
+	<test name="ebay.test">
+		<classes>
+			<class name="Ebay.test"/>
+		</classes>
+	</test>
+</suite>
